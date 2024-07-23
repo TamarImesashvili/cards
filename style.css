@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    height: 780px;
+    background-color: #E8EFFC;
+    background: linear-gradient( to left, rgba(232, 239, 252, 1), rgba(255, 255, 255, 1));
+}
+.div1 {
+    text-align: center;
+    font-family: "fonti";
+
+}
+
+@font-face {
+    font-family: "fonti";
+    src: url(./Roboto-Thin.ttf);
+}
+
+.div2 {
+    width: 296px;
+    height: 400px;
+    font-family: "fonti";
+    box-shadow: 0.82px 6.65px 2.47px 0 rgba(0, 0, 0, 0.0966);
+    border-radius: 5px;
+    display: inline-block;
+    padding-top: 50px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+#free {
+    margin-left: 35px;
+}
+.div3 {
+    width: 296px;
+    height: 400px;
+    padding-top: 15px;
+    font-family: "fonti";
+    border: solid 1.65px rgba(53, 142, 215, 0.21);
+    box-shadow: 0.82px 1.65px 2.47px 0 rgba(0, 0, 0, 0.0966);
+    border-radius: 5px;
+    display: inline-block;
+    padding-top: 50px;
+    margin-left: 25px;
+    background-color: rgba(255, 255, 255, 1);
+
+}
+.div4 {
+    width: 296px;
+    height: 400px;
+    padding-top: 15px;
+    font-family: "fonti";
+    border: solid 1px #FFFFFF;
+    box-shadow: 0.82px 1.65px 2.47px 0 rgba(0, 0, 0, 0.0966);
+    border-radius: 5px;
+    display: inline-block;
+    padding-top: 50px;
+    margin-left: 25px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+
+.divx {
+    border: solid 1px white;
+    border: none;
+    margin-top: 40px;
+    color: rgba(125, 200, 85, 1);
+}
+.divy {
+    border: solid 1px white;
+    border: none;
+    margin-top: 40px;
+    color: rgba(125, 200, 85, 1);
+}
+.divz {
+    border: solid 1px white;
+    border: none;
+    margin-top: 40px;
+    color: rgba(125, 200, 85, 1);
+}
+h4 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 13.18px;
+}
+.text .text1 .text2 {
+    text-align: end;
+    color: rgba(134, 147, 158, 1);
+}
+
+button {
+    width: 247px;
+    height: 49px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: rgba(125, 200, 85, 1);
+    border: none;
+    border-radius: 5px;
+}
